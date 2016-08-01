@@ -1,5 +1,7 @@
 // Simple Timer (and serial) demo
 // From code sample on particle site
+// See this page for schematic and code:
+// https://docs.particle.io/guide/getting-started/examples/photon/#read-your-photoresistor-function-and-variable
 
 // Then run:
 // particle serial monitor (serial monitor only works when particle is directly connected to pc via usb)
