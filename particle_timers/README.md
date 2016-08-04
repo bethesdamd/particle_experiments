@@ -19,3 +19,5 @@ This is an IBM open source tool at http://nodered.org.  Beyond the scope of this
 
 - https://www.npmjs.com/package/node-red-contrib-ui
 - https://www.npmjs.com/package/node-red-contrib-particle
+
+![node red flow](particle_experiments/particle_timers/docs/node-red flow.png)
