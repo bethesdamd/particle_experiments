@@ -1,0 +1,1 @@
+[{"id":"eb373cf8.f35be","type":"ui_chart","z":"9aa97066.f11f8","tab":"71bd77b2.7ec348","name":"my","group":"","order":1,"interpolate":"linear","nodata":"No Data","removeOlder":1,"removeOlderUnit":"86400","x":561.2777862548828,"y":370.3750305175781,"wires":[[],[]]},{"id":"71bd77b2.7ec348","type":"ui_tab","z":"9aa97066.f11f8","name":"Home","icon":"dashboard","order":"1"}]
