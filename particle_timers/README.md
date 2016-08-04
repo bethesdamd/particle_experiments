@@ -9,8 +9,8 @@ The Publish feature of the Particle places the data on a message queue that can 
 The inclusion of node-red allows the easy building of "flows" that allow all sorts of processing, filtering, and other data processing, without programming.  So for example you could publish your data publicly and allow some school kids, who can't program,  to build a quick visualization of your data in a browser.  Or you could have node-red send you an email if the data met some particular threshold.
 
 Circuit:
-Place a CDS cell across pins A0 and A5 pins
-Place a 12k ohm resistor across A0 and GND pins
+- Place a CDS cell across pins A0 and A5 pins
+- Place a 12k ohm resistor across A0 and GND pins
 
 The code is well-commented.
 
