@@ -21,12 +21,12 @@ void print_every_second()
 
 void read_light() {
     analogvalue = analogRead(photoresistor);
-    Particle.publish("light value", String(analogvalue));
+    Particle.publish("light_value", String(analogvalue));
 }
 
-Timer timer1(1000, print_every_second);
+Timer timer1(3000, print_every_second);
 
-Timer timer2(5000, read_light);
+Timer timer2(1 * 60 * 1000, read_light);
 
 void setup()
 {
